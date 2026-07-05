@@ -6,7 +6,7 @@
 
 
 <li>An online Food Delivery Application having backend REST-API, made in Java Spring Boot, JPA-Hibernate with MySQL database.
-<li> This project is developed by team of 5 Back-end Developers during Construct Week Project in Masai School.
+
  
  
 ## Used Tech Stack & Tools:
@@ -69,11 +69,3 @@
 ![Online-Food-Order-App](https://user-images.githubusercontent.com/76105799/203701190-7211e27e-4afa-4110-af11-375a538fd17d.png)
 
 
-## Contributors
-
-<div><img style="height:100px"; src="https://avatars.githubusercontent.com/u/76105799?v=4">&nbsp;&nbsp;<img style="height:100px"; src="https://avatars.githubusercontent.com/u/83025741?v=4">&nbsp;&nbsp;<img style="height:100px"; src="https://avatars.githubusercontent.com/u/101392926?v=4">&nbsp;&nbsp;<img style="height:100px"; src="https://avatars.githubusercontent.com/u/101393439?v=4">&nbsp;&nbsp;<img style="height:100px"; src="https://avatars.githubusercontent.com/u/84814627?v=4"></div>
-
-
-&nbsp;&nbsp;&nbsp;<a href="https://github.com/sanajitjana">Sanajit Jana</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/sakshi00555">Sakshi Kumari</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ksaurav11">Kumar Saurav</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/Ranjit0979">Ranjit Lagda</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/dipeshsingh253">Dipesh Singh</a>
-<p align="center">
-<img style="width:35%" src="https://www.bing.com/th/id/OGC.7a7082d2d73b6c995db6da795b66ae85?pid=1.7&rurl=https%3a%2f%2fstatic.dribbble.com%2fusers%2f662638%2fscreenshots%2f4803914%2fthumbsupdribs2.gif&ehk=Y%2b6LnEHbNx8qdJcdrFatveXJrSnRlK7z%2bTAB4v%2blc%2fE%3d"/></p>
